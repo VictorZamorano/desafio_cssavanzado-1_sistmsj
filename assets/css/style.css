@@ -23,7 +23,7 @@ aside {
 
 /* header chatbox */
 .img-user1 {
-	background-image: url(/assets/imgs/maria.jpg);
+	background-image: url(../imgs/maria.jpg);
 	width: 50px;
 	height: 50px;
 	background-size: cover;
@@ -97,7 +97,7 @@ p {
 
 /* usuarios */
 .img-user2 {
-	background-image: url(/assets/imgs/Screen\ Shot\ 2018-11-28\ at\ 15.27.14.jpg);
+	background-image: url(../imgs/Screen\ Shot\ 2018-11-28\ at\ 15.27.14.jpg);
 	width: 50px;
 	height: 50px;
 	background-size: cover;
@@ -106,7 +106,7 @@ p {
 	margin: 10px;
 }
 .img-user3 {
-	background-image: url(/assets/imgs/Screen\ Shot\ 2018-11-28\ at\ 15.28.04.jpg);
+	background-image: url(../imgs/Screen\ Shot\ 2018-11-28\ at\ 15.28.04.jpg);
 	width: 50px;
 	height: 50px;
 	background-size: cover;
@@ -115,7 +115,7 @@ p {
 	margin: 10px;
 }
 .img-user4 {
-	background-image: url(/assets/imgs/Screen\ Shot\ 2018-11-28\ at\ 15.28.30.jpg);
+	background-image: url(../imgs/Screen\ Shot\ 2018-11-28\ at\ 15.28.30.jpg);
 	width: 50px;
 	height: 50px;
 	background-size: cover;
@@ -124,7 +124,7 @@ p {
 	margin: 10px;
 }
 .img-user5 {
-	background-image: url(/assets/imgs/Screen\ Shot\ 2018-11-28\ at\ 15.30.34.jpg);
+	background-image: url(../imgs/Screen\ Shot\ 2018-11-28\ at\ 15.30.34.jpg);
 	width: 50px;
 	height: 50px;
 	background-size: cover;
@@ -133,7 +133,7 @@ p {
 	margin: 10px;
 }
 .img-user6 {
-	background-image: url(/assets/imgs/Screen\ Shot\ 2018-11-28\ at\ 15.30.54.jpg);
+	background-image: url(../imgs/Screen\ Shot\ 2018-11-28\ at\ 15.30.54.jpg);
 	width: 50px;
 	height: 50px;
 	background-size: cover;
@@ -142,7 +142,7 @@ p {
 	margin: 10px;
 }
 .img-user7 {
-	background-image: url(/assets/imgs/Screen\ Shot\ 2018-11-28\ at\ 15.32.16.jpg);
+	background-image: url(../imgs/Screen\ Shot\ 2018-11-28\ at\ 15.32.16.jpg);
 	width: 50px;
 	height: 50px;
 	background-size: cover;
@@ -151,7 +151,7 @@ p {
 	margin: 10px;
 }
 .img-user8 {
-	background-image: url(/assets/imgs/Screen\ Shot\ 2018-11-28\ at\ 15.32.44.jpg);
+	background-image: url(../imgs/Screen\ Shot\ 2018-11-28\ at\ 15.32.44.jpg);
 	width: 50px;
 	height: 50px;
 	background-size: cover;
@@ -201,8 +201,5 @@ main {
 	font-size: 1.1rem;
 	
 }
-
-
-
 
 /* chat fin */
