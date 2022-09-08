@@ -1,0 +1,208 @@
+body {
+	font-family: "Raleway", sans-serif;
+	font-family: "Source Sans Pro", sans-serif;
+}
+
+.container {
+	display: flex;
+	border: 2px solid black;
+}
+
+/* chatbox */
+aside {
+	width: 25%;
+	min-height: 100vh;
+}
+
+.chatbox {
+	display: flex;
+	border: 1px solid #bec1bb;
+	padding: 10px;
+	justify-content: space-between;
+}
+
+/* header chatbox */
+.img-user1 {
+	background-image: url(/assets/imgs/maria.jpg);
+	width: 50px;
+	height: 50px;
+	background-size: cover;
+	background-position: center;
+	border-radius: 50px;
+	margin: 10px;
+}
+
+.container-chat {
+	display: flex;
+	align-items: center;
+}
+
+.texto h5,
+h4,
+p {
+	margin: 0;
+}
+
+.texto {
+	padding-left: 20px;
+}
+.txt-header h5{
+	margin: 0;
+	font-size: 1rem;
+}
+.txt-header p{
+	margin: 0;
+	color: #828485;
+	font-size: 13px;
+}
+
+.box-iconos {
+	font-size: 1.4rem;
+	display: flex;
+	max-height: 30px;
+	padding-top: 20px;
+	padding-right: 15px;
+}
+
+.iconos i {
+	font-size: 1.4rem;
+	padding: 5px;
+	color: #828485;
+}
+/* header chatbox fin */
+
+/* button */
+.box-button {
+	display: flex;
+	height: 200px;
+	border: 1px solid #bec1bb;
+	justify-content: center;
+	align-items: center;
+}
+.box-button a {
+	text-decoration: none;
+	color: white;
+	background-color: #a491d2;
+	padding: 20px 80px 20px 80px;
+}
+
+.box-button a:hover{
+	background-color: #CDC3E6;
+}
+
+.box-button a:focus{
+	background-color: #bec1bb;
+}
+/* button fin*/
+
+/* usuarios */
+.img-user2 {
+	background-image: url(/assets/imgs/Screen\ Shot\ 2018-11-28\ at\ 15.27.14.jpg);
+	width: 50px;
+	height: 50px;
+	background-size: cover;
+	background-position: center;
+	border-radius: 50px;
+	margin: 10px;
+}
+.img-user3 {
+	background-image: url(/assets/imgs/Screen\ Shot\ 2018-11-28\ at\ 15.28.04.jpg);
+	width: 50px;
+	height: 50px;
+	background-size: cover;
+	background-position: center;
+	border-radius: 50px;
+	margin: 10px;
+}
+.img-user4 {
+	background-image: url(/assets/imgs/Screen\ Shot\ 2018-11-28\ at\ 15.28.30.jpg);
+	width: 50px;
+	height: 50px;
+	background-size: cover;
+	background-position: center;
+	border-radius: 50px;
+	margin: 10px;
+}
+.img-user5 {
+	background-image: url(/assets/imgs/Screen\ Shot\ 2018-11-28\ at\ 15.30.34.jpg);
+	width: 50px;
+	height: 50px;
+	background-size: cover;
+	background-position: center;
+	border-radius: 50px;
+	margin: 10px;
+}
+.img-user6 {
+	background-image: url(/assets/imgs/Screen\ Shot\ 2018-11-28\ at\ 15.30.54.jpg);
+	width: 50px;
+	height: 50px;
+	background-size: cover;
+	background-position: center;
+	border-radius: 50px;
+	margin: 10px;
+}
+.img-user7 {
+	background-image: url(/assets/imgs/Screen\ Shot\ 2018-11-28\ at\ 15.32.16.jpg);
+	width: 50px;
+	height: 50px;
+	background-size: cover;
+	background-position: center;
+	border-radius: 50px;
+	margin: 10px;
+}
+.img-user8 {
+	background-image: url(/assets/imgs/Screen\ Shot\ 2018-11-28\ at\ 15.32.44.jpg);
+	width: 50px;
+	height: 50px;
+	background-size: cover;
+	background-position: center;
+	border-radius: 50px;
+	margin: 10px;
+}
+
+.texto-users{
+	padding-left: 10px;
+}
+/* usuarios fin */
+
+/* chatbox fin */
+
+/* chat */
+main {
+	display: flex;
+	width: 100%;
+	min-height: 100vh;
+	
+	
+}
+.container-image{
+	display: flex;
+	flex-direction: column;
+	background-color: #E8EBE4;
+	min-width: 100%;
+	justify-content: center;
+	align-items: center;
+}
+.image img {
+	width: 300px;
+}
+.textochat{
+	display: flex;
+	text-align: center;
+	flex-direction: column;
+	align-items: center;
+}
+.textochat h2{
+	font-size: 3rem;
+	margin-bottom: 0;
+}
+.textochat p{
+	width: 55%;
+	font-size: 1.1rem;
+	
+}
+
+
+
+
+/* chat fin */
